@@ -1,4 +1,5 @@
-# 2021년도 private subnet에 위치하는 ASG를 만들때 템플릿의 user script
+# 2021년도 제 1번 문제 
+# private subnet에 위치하는 ASG를 만들때 템플릿의 user script
 
 
 ```
